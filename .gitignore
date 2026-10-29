@@ -1,0 +1,22 @@
+# Backup generati
+Backup_*/
+*.7z
+*.rar
+*.zip
+
+# Log
+*.log
+SmartArchiver_*.log
+
+# File temporanei
+*.tmp
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
